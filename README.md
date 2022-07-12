@@ -1,0 +1,2 @@
+# Community-Forums
+使用kaptcha去生成验证码，Redis优化验证码保存，解决分布式session问题；利用Redis的zset并结合Redis实现点赞关注的功能；使用Kafka实现异步的发送消息通知；使用Elasticsearch实现对帖子的搜索功能等，完成基础功能实现。
